@@ -1,7 +1,7 @@
 // src/services/api.js - Enhanced with debugging
 import axios from 'axios';
 
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'https://authentication-module-g8h8.onrender.com/api';
 
 // Create axios instance
 const api = axios.create({
