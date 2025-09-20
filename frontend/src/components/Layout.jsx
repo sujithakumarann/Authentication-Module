@@ -46,7 +46,7 @@ const Layout = ({ children }) => {
       </main>
       
       <footer className="footer">
-        <p>&copy; 2024 SecureAuth. Built with React & Node.js</p>
+        <p>&copy; 2025 SecureAuth. Built with React & Node.js</p>
       </footer>
     </div>
   );
