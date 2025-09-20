@@ -1,0 +1,13 @@
+{
+  "name": "authentication-module",
+  "version": "1.0.0",
+  "description": "Full-stack authentication module with React and Node.js",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "start": "cd backend && npm install && npm start",
+    "dev": "cd backend && npm run dev"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
