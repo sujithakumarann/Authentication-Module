@@ -44,7 +44,7 @@ const Register = () => {
     <div className="auth-container">
       <div className="auth-card">
         <div className="auth-header">
-          <div className="auth-icon">🚀</div>
+          <div className="auth-icon"></div>
           <h2>Create Account</h2>
           <p>Join us and get started today</p>
         </div>
